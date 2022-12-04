@@ -32,12 +32,12 @@ nav,a{
 }
 
 #borda{
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
     border: 1px solid darkmagenta ;
 }
 article>h2{
-    font-size: 3.5em;
+    font-size: 3em;
    
     
 }
